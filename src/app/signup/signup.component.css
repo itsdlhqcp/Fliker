@@ -1,0 +1,17 @@
+
+
+.form-control:valid {
+    background-color:  #caf4cb!important;
+  }
+
+  input:not(:placeholder-shown) {
+    background-color:  #ec9696!important;
+ }
+ 
+ 
+ input:placeholder-shown {
+    background-color:  #ffffff!important;
+    
+ }
+
+ 
